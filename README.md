@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Node.js Backend Developer** with **4+ years of experience** and an NDip in Information Technology from the Tshwane University of Technology, specializing in Intelligent Industrial Systems. I love pushing the boundaries of technology and creating innovative solutions to real-world problems.
+I'm a passionate **Software engineer** with **4+ years of experience** and an NDip in Information Technology from the Tshwane University of Technology, specializing in Intelligent Industrial Systems. I love pushing the boundaries of technology and creating innovative solutions to real-world problems.
 
-- 🔭 Currently working as a Full-Stack Developer
+- 🔭 Currently working as a Software engineer
 - 🌱 Passionate about software architecture and backend development
 - 📍 Based in **Pretoria, South Africa**
 - 📧 Reach me at: **mahlomolamoses@gmail.com**
