@@ -91,10 +91,10 @@ I'm a passionate **Node.js Backend Developer** with **4+ years of experience** a
 </p>
 
 ---
-
+<!--
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Mahlomola-Moses&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div> -->
 
 <div align="center">
   <i>💡 "Pushing the boundaries of technology, one commit at a time!"</i>
